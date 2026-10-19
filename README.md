@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shani
+# Hi there 👋 I'm Shayan
 
 🚀 Senior Developer | 🎨 UI/UX Designer | ⚡ n8n Automation   
 🏆 Team Lead at Khel Muqabla
