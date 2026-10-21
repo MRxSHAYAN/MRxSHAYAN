@@ -1,267 +1,276 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1930,100:123D70&height=220&section=header&text=SHAYAN&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%2F%2F%20APP%20DEVELOPER%20%2F%2F%20UI%2FUX&descSize=13&descAlignY=59&animation=fadeIn" alt="Shayan dark developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,50:123A63,100:2563EB&text=SHAYAN&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MOBILE%20APP%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="Shayan GitHub profile banner"/>
+
+<a href="https://github.com/MRxSHAYAN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=55E0C0&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full-Stack+Web+Development;Exploring+Flutter+%26+Dart;Turning+Ideas+Into+Software" alt="Typing animation"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Engineering+Modern+Web+Applications;Exploring+Flutter+%26+Dart;Design.+Develop.+Improve." alt="Developer typing animation"/>
-
-<br/><br/>
-
 <a href="https://github.com/MRxSHAYAN">
-<img src="https://img.shields.io/badge/GITHUB-MRxSHAYAN-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-MRxSHAYAN-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://khelmuqabla.com">
-<img src="https://img.shields.io/badge/KHEL_MUQABLA-TEAM_LEADER-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Khel Muqabla"/>
+  <img src="https://img.shields.io/badge/Team_Leader-Khel_Muqabla-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khel Muqabla"/>
 </a>
 <a href="mailto:nexussolution3747@gmail.com">
-<img src="https://img.shields.io/badge/NEXUS_SOLUTIONS-BUSINESS-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Nexus Solutions"/>
+  <img src="https://img.shields.io/badge/Nexus_Solutions-Contact-55E0C0?style=for-the-badge&logo=gmail&logoColor=111827" alt="Nexus Solutions"/>
 </a>
 
 <br/><br/>
 
-`[ DESIGN ]` &nbsp; ` [ DEVELOP ]` &nbsp; ` [ DELIVER ]`
+*"Build with purpose. Learn continuously. Ship better software."*
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+## `$ whoami`
 
-```yaml
-name: Muhammad Shayan
-location: Pakistan
-education: Aptech ACCP AI
-role:
-  - Full-Stack Developer
-  - Mobile App Developer
-  - UI/UX Designer
-leadership: Khel Muqabla
-business: Nexus Solutions
+```text
+Name       : Muhammad Shayan
+Location   : Pakistan 🇵🇰
+Education  : Aptech ACCP AI Student
+Role       : Full-Stack Developer & Mobile App Developer
+Leadership : Team Leader at Khel Muqabla
+Company    : Nexus Solutions
+Interests  : Software Engineering, UI/UX & Product Development
 ```
 
-I'm a software development student and developer focused on building modern websites, full-stack applications, dashboards, and user-friendly digital products.
+I'm a software development student and developer focused on building responsive websites, full-stack applications, dashboards, and intuitive user interfaces.
 
-My work combines frontend development, backend engineering, database integration, WordPress, and interface design. I'm currently expanding into mobile development with Flutter and Dart while strengthening my software engineering fundamentals.
+I work across frontend development, backend development, WordPress, databases, and UI/UX design. I'm also expanding into mobile application development with Flutter and Dart.
 
-- `01` Building responsive web applications and dashboards.
-- `02` Developing backend services, APIs, and database-driven systems.
-- `03` Designing clean, practical user interfaces.
-- `04` Exploring cross-platform mobile application development.
-- `05` Coordinating digital projects and team workflows.
+My approach is simple: understand the problem, design a practical solution, build it properly, and keep improving.
+
+- 💻 Building web applications and interactive dashboards.
+- 🎨 Designing clean interfaces with a focus on usability.
+- ⚙️ Developing backend services and database-driven applications.
+- 📱 Exploring cross-platform mobile development with Flutter.
+- 🤝 Leading and coordinating digital project work at Khel Muqabla.
+- 🚀 Developing my software engineering skills through practical projects.
 
 ---
 
-## `02 / TECH STACK`
+## `$ tech --stack`
 
 <div align="center">
 
-**FRONTEND**
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap&theme=dark" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" alt="Frontend technology stack"/>
 
-<br/><br/>
+### BACKEND & DATABASES
 
-**BACKEND & DATABASES**
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql" alt="Backend and database stack"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql&theme=dark" alt="Backend and databases"/>
+### MOBILE DEVELOPMENT
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
 
-**MOBILE DEVELOPMENT**
+### CMS, DESIGN & TOOLS
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
-
-<br/><br/>
-
-**CMS, DESIGN & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=wordpress,figma,git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=wordpress,figma,git,github,vscode" alt="CMS, design, and development tools"/>
 
 </div>
 
 ---
 
-## `03 / SELECTED PROJECTS`
+## `$ ls ./projects`
+
+### 🎪 EventSphere Management
+
+**Expo & Trade Show Management System**
+
+A full-stack project designed to connect expo organizers, exhibitors, and attendees through a centralized platform.
+
+- Role-based dashboards and event management.
+- Exhibitor applications and booth allocation.
+- Event schedules, registrations, and attendee engagement.
+- Interactive floor-planning capabilities.
+
+**Stack:** React · Node.js · Express.js · MongoDB
+
+### 📅 Planova
+
+**Event Planning & Management Platform**
+
+A modern event management project focused on organizing event information and providing a streamlined experience through a clean, user-friendly interface.
+
+- Event planning and management workflows.
+- Dedicated dashboards with role-specific interfaces.
+- Organized event information and intuitive navigation.
+- UI/UX design and collaborative development.
+
+**Role:** Team Leader · Developer · UI/UX Designer
+
+**Stack:** Add your actual project technologies here.
+
+### 🌐 SkillSwap
+
+**Skill Exchange Web Application**
+
+A web application focused on connecting people who want to exchange knowledge and learn skills from one another.
+
+- User-focused interface and application workflows.
+- Practical experience with full-stack development.
+- Web application architecture and feature development.
+
+**Stack:** MERN
+
+### 📱 Tech Store UI
+
+**Electronics Store Mobile Interface**
+
+A Flutter-based electronics store UI project focused on mobile interface development and reusable components.
+
+- Product categories and browsing interfaces.
+- Consistent app theming and reusable widgets.
+- Mobile-first UI implementation.
+
+**Stack:** Flutter · Dart
+
+<div align="center">
+
+<a href="https://github.com/MRxSHAYAN?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+> Project scope and implementation may evolve during development. Visit the relevant repositories for the latest code and documentation.
+
+---
+
+## `$ ./what-i-do`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎪 EventSphere
+### 💻 Web Development
 
-**Expo Management Platform**
+Responsive websites, frontend interfaces, full-stack applications, and dashboards.
 
-A full-stack platform concept for managing exhibitions and connecting organizers, exhibitors, and attendees.
+### ⚙️ Backend Engineering
 
-- Role-based dashboards
-- Exhibitor applications
-- Booth allocation and floor planning
-- Event registration and scheduling
+REST APIs, server-side logic, authentication concepts, and database integration.
 
-`REACT` `NODE.JS` `EXPRESS` `MONGODB`
+### 🌐 WordPress Development
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 SkillSwap
-
-**Skill Exchange Platform**
-
-A web application focused on connecting people who want to share knowledge and learn from one another.
-
-- User-focused interface
-- Application workflows
-- Full-stack development practice
-
-`MERN STACK`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Tech Store UI
-
-**Electronics Store App**
-
-A mobile UI project focused on building an organized electronics shopping experience.
-
-- Product categories
-- Reusable Flutter widgets
-- Consistent app theming
-
-`FLUTTER` `DART`
+Business websites, CMS configuration, and Elementor-based layouts.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Explore More
+### 🎨 UI/UX Design
 
-**Other Development Work**
+Interface layouts, visual consistency, wireframes, and usability.
 
-Explore my repositories for experiments, practice projects, web applications, and ongoing development.
+### 📱 Mobile Development
 
-<br/>
+Learning and building cross-platform applications with Flutter and Dart.
 
-<a href="https://github.com/MRxSHAYAN?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=05070D" alt="View repositories"/>
-</a>
+### 🤝 Team Collaboration
+
+Task coordination, project planning, and collaborative development workflows.
 
 </td>
 </tr>
 </table>
 
-<sub>Project descriptions reflect current project scope; features may evolve during development.</sub>
-
 ---
 
-## `04 / WHAT I DO`
+## `$ system --current-focus`
 
 <div align="center">
 
-| AREA | CAPABILITIES |
+| Area | Current Objective |
 |:---|:---|
-| `WEB` | Responsive websites, React interfaces, full-stack applications |
-| `BACKEND` | REST APIs, server-side logic, database integration |
-| `CMS` | WordPress, Elementor, business websites |
-| `DESIGN` | UI layouts, wireframes, visual consistency, usability |
-| `MOBILE` | Flutter and Dart application development |
-| `TEAM` | Project coordination and collaborative development |
+| Full-Stack | Strengthening React, Next.js, Node.js, and API fundamentals |
+| Mobile | Learning Flutter and Dart through practical projects |
+| Engineering | Improving code quality, validation, and maintainability |
+| UI/UX | Building consistent, accessible, responsive interfaces |
+| Projects | Developing EventSphere Management |
 
 </div>
 
 ---
 
-## `05 / CURRENT FOCUS`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-REACT_%26_NEXT.JS-0B1220?style=flat-square&logo=react&logoColor=38BDF8" alt="React and Next.js"/>
-<img src="https://img.shields.io/badge/02-NODE.JS_%26_APIS-0B1220?style=flat-square&logo=nodedotjs&logoColor=38BDF8" alt="Node.js and APIs"/>
-<img src="https://img.shields.io/badge/03-FLUTTER_%26_DART-0B1220?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter and Dart"/>
-<img src="https://img.shields.io/badge/04-SOFTWARE_ENGINEERING-0B1220?style=flat-square&logo=git&logoColor=38BDF8" alt="Software engineering"/>
-<img src="https://img.shields.io/badge/05-EVENTSPHERE-0B1220?style=flat-square&logo=github&logoColor=38BDF8" alt="EventSphere"/>
-
-</div>
-
----
-
-## `06 / GITHUB ANALYTICS`
+## `$ git stats`
 
 <div align="center">
 
 <a href="https://github.com/MRxSHAYAN">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MRxSHAYAN&show_icons=true&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MRxSHAYAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/MRxSHAYAN">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxSHAYAN&layout=compact&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=C9D1D9" alt="Top programming languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxSHAYAN&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/MRxSHAYAN">
-<img src="https://streak-stats.demolab.com?user=MRxSHAYAN&hide_border=true&background=05070D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRxSHAYAN&bg_color=05070D&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&area_color=0B1930&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## `07 / NEXUS SOLUTIONS`
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,100:102748&height=120&text=NEXUS%20SOLUTIONS&fontSize=34&fontColor=38BDF8&fontAlignY=45" alt="Nexus Solutions"/>
-
-**Digital solutions. Modern development. Practical results.**
-
-For business inquiries, website development, application projects, and digital solutions, contact Nexus Solutions.
 
 <br/>
 
+<a href="https://github.com/MRxSHAYAN">
+  <img src="https://streak-stats.demolab.com?user=MRxSHAYAN&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRxSHAYAN&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `$ contact --business`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101B2D,100:123A63&text=NEXUS%20SOLUTIONS&fontSize=32&fontColor=55E0C0&fontAlignY=45" width="100%" alt="Nexus Solutions banner"/>
+
+### Digital solutions. Modern development. Practical results.
+
+For business inquiries, website development, application projects, and digital solutions, contact **Nexus Solutions**.
+
 <a href="mailto:nexussolution3747@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-nexussolution3747%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Business email"/>
+  <img src="https://img.shields.io/badge/BUSINESS_EMAIL-nexussolution3747%40gmail.com-55E0C0?style=for-the-badge&logo=gmail&logoColor=101B2D" alt="Nexus Solutions business email"/>
 </a>
 
 <br/><br/>
 
 <a href="tel:03470251819">
-<img src="https://img.shields.io/badge/BUSINESS_PHONE-03470251819-0B1220?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" alt="Business phone"/>
+  <img src="https://img.shields.io/badge/BUSINESS_PHONE-03470251819-2563EB?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Nexus Solutions business phone"/>
 </a>
 
 </div>
 
 ---
 
-## `08 / PERSONAL CONTACT`
+## `$ contact --personal`
 
 <div align="center">
 
 <a href="mailto:shayan.shani0321@gmail.com">
-<img src="https://img.shields.io/badge/PERSONAL_EMAIL-shayan.shani0321%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Personal email"/>
+  <img src="https://img.shields.io/badge/PERSONAL_EMAIL-shayan.shani0321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/>
 </a>
 
 <br/><br/>
 
 <a href="tel:03390006603">
-<img src="https://img.shields.io/badge/PERSONAL_PHONE-03390006603-0B1220?style=for-the-badge&logo=phone&logoColor=38BDF8" alt="Personal phone"/>
+  <img src="https://img.shields.io/badge/PERSONAL_PHONE-03390006603-111827?style=for-the-badge&logo=phone&logoColor=white" alt="Personal phone"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/MRxSHAYAN">
-<img src="https://img.shields.io/badge/GITHUB-MRxSHAYAN-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
 
 <a href="https://khelmuqabla.com">
-<img src="https://img.shields.io/badge/KHEL_MUQABLA-WEBSITE-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Khel Muqabla website"/>
+  <img src="https://img.shields.io/badge/Khel_Muqabla-Official_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Khel Muqabla website"/>
 </a>
 
 </div>
@@ -270,10 +279,12 @@ For business inquiries, website development, application projects, and digital s
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:123D70,50:0B1930,100:05070D&height=120&section=footer" alt="Dark footer"/>
-
 ### `while (alive) { learn(); build(); improve(); }`
 
-<sub>Designed with precision · Built by Shayan · Pakistan 🇵🇰</sub>
+<img src="https://komarev.com/ghpvc/?username=MRxSHAYAN&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
+**Building today. Improving tomorrow.**
+
+<sub>Designed and maintained by Shayan · Pakistan 🇵🇰</sub>
 
 </div>
